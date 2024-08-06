@@ -815,7 +815,14 @@ p {
   }
 }
 
-
+.btn-resume{
+  background-color:#b8a07e;
+  font-size: 20px;
+  position: relative;
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
