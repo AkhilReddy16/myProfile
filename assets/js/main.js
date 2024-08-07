@@ -302,3 +302,13 @@
 	};
 
 })()
+
+
+function onmouseoverEvent(idName){
+  document.getElementById(idName).style.display = 'block';
+}
+
+
+function onmouseoutEvent(idName){
+  document.getElementById(idName).style.display = 'none';
+}
