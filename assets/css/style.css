@@ -821,6 +821,7 @@ p {
   position: relative;
   display: block;
   margin: auto;
+  margin-top: 0px;
   margin-bottom: 50px;
 }
 /*--------------------------------------------------------------
@@ -1781,4 +1782,13 @@ blockquote {
     display: inline-block;
     margin-right: 0;
   }
+}
+
+
+#experience-title1,#experience-title2,#experience-title3,#experience-title4,#experience-title5,#experience-title6{
+  cursor:pointer;
+}
+
+#experience-desc1,#experience-desc2,#experience-desc3,#experience-desc4,#experience-desc5,#experience-desc6{
+  display:none;
 }
